@@ -1,7 +1,8 @@
-DIO Kali Medusa Lab
+## DIO Kali Medusa Lab
+
 Projeto desenvolvido como parte do desafio da DIO para estudo de autenticação, análise de vulnerabilidades e boas práticas de segurança em ambiente de laboratório controlado.
 
-Objetivo
+## Objetivo
 Compreender conceitos relacionados a:
 
 Kali Linux
@@ -11,7 +12,8 @@ DVWA
 SMB
 Políticas de senha
 Mitigação de vulnerabilidades
-Ambiente
+
+## Ambiente
 Kali Linux
 Metasploitable 2
 VirtualBox
@@ -21,11 +23,11 @@ Kali Linux → Máquina de Análise
 
 Metasploitable 2 → Máquina Vulnerável
 
-Conteúdo
+## Conteúdo
 Configuração do ambiente
 Documentação dos testes realizados
 Evidências do laboratório
 Recomendações de mitigação
 
-Autor
+## Autor
 Iago Rafael Rodrigues de Macêdo
